@@ -9,7 +9,7 @@
             
             "network" : "admob",
 
-            "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
+            "one_signal" : "000000000",
             
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -26,7 +26,7 @@
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
             "fan_rewarded": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_key": "168e4ab9d",
+            "iron_key": "180e86c7d",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
@@ -150,7 +150,7 @@
     "menu" : [
         {
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "Spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#ffffff"
@@ -161,8 +161,8 @@
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
-            "active_reward" : "true",
+            "active" : "false",
+            "active_reward" : "false",
             "name" : "Questions",
             "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
             "bg" : "#ffffff"
@@ -174,7 +174,7 @@
             "bg" : "#ffffff"
         },{
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "Quiz",
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
             "bg" : "#ffffff"
@@ -185,13 +185,13 @@
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#673AB7"
         },{
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "More",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
@@ -206,46 +206,25 @@
     ],
 
     "wallpapers" : [
-        {
-            "name" : "",
-            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
-        },
-        {
-            "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
-        },
-        {
-            "name" : "",
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
-        }
+        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/04/30/choochoocharles-1651280665421.jpg?width=300&crop=1%3A1%2Csmart" },
+        { "name" : "", "img" : "https://howtomarketagame.com/wp-content/uploads/2021/10/charles.jpg" },
+        { "name" : "", "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/ss_656dfa0b4bcf63fa5e4b58b9c08a246fcca7fa4a.1920x1080.jpg?t=1670596632" },
+        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/10/11/choochoocharlesreleasedate-blog-1665505211360.jpg" },
+        { "name" : "", "img" : "https://img.game-news24.com/2022/12/The-train-that-could-have-a-horror-movie-about-the-nightmarish-train-Choo-Choo-Charles-upset-critics-but-ordinary-gamers-liked-the-movie.jpeg" },
+        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/12/07/choo-choo-blog-1670428170370.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/ThTzq_luTMI/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://www.pcinvasion.com/wp-content/uploads/2022/12/Choo-Choo-Charles-Hell-Charles-1.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/nJZo9VZe2Uo/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://cdn.vox-cdn.com/thumbor/lJ7gMQCCcBE94Pv2En6OYe6vLgo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/23614967/CCC_Front.png" },
+        { "name" : "", "img" : "https://www.fiz-x.com/wp-content/uploads/2022/10/CHOO-CHOO-CHARLES.jpg" },
+        { "name" : "", "img" : "https://media.sketchfab.com/models/dff1c7791bec429f9c0de08318bae5ed/thumbnails/84f791b5834244a092d87cf19ee37863/00898c357dc649c18d0574ff55bcfddc.jpeg" },
+        { "name" : "", "img" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c0af0a76f2d10c56b6e257a51d863380.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/d-VIuto5--w/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/thumbnail/1200x900/quality/100/-1633195811532.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/1W1MYXltUPU/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/6924887c8c041245c25d5cf69c6d1255.png" }
     ],
     
     "games" : [
@@ -296,17 +275,11 @@
     ],
     
     "scratch" : [
-        {
-            "img" : "https://media.istockphoto.com/vectors/scratch-and-win-letters-scratched-effect-background-and-stars-place-vector-id985966248?k=20&m=985966248&s=612x612&w=0&h=mQlnhRg3AvHwV_lKVS-YDuErpY35LeGie2VKezaSX0Q="
-        },{
-            "img" : "https://thumbs.dreamstime.com/b/scratch-win-letters-scratched-effect-background-stars-scratch-win-letters-scratched-effect-background-stars-ribbon-120022586.jpg"
-        },{
-            "img" : "https://cdn.appsmav.com/win/upload/img/242/42/6242_scratch_1559542007.png"
-        },{
-            "img" : "https://play-lh.googleusercontent.com/wsm1brgFhjT-1_czu_JpoUVnthTafMWVCidTnrYwsR6djLUwggqIGDmlwhrnbRa0eTQ"
-        },{
-            "img" : "https://play-lh.googleusercontent.com/H4ql9I6x-3x_AIM6HUPyzX7Wqral-yEazluTt_-rIzn5_U8NIYOh8QsjzHd-75S6-ks"
-        }
+        { "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+        { "img" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
+        { "img" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
+        { "img" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
+        { "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
     ],
 
     "quizquestions" : [
@@ -336,11 +309,11 @@
         {
             "images" :
             [
-                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
-                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
-                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
+                { "image" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+                { "image" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
+                { "image" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
+                { "image" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
+                { "image" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
             ],
             "answers" :
             [
