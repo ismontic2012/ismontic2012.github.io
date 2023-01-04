@@ -7,7 +7,7 @@
             "activate_banner" : "off",
             "activate_inter" : "on",
             
-            "network" : "fan",
+            "network" : "max",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -20,6 +20,10 @@
             "yandex_native" : "R-M-DEMO-native-i",
             "yandex_int" : "R-M-DEMO-interstitial",
             "yandex_rewarded" : "R-M-DEMO-rewarded-client-side-rtb",
+
+            "max_ban": "c80fd8383654c2ad",
+            "max_native": "3121a955a57630dd",
+            "max_int": "f75f71a8576cd0f2",
 
             "fan_ban": "1300700627171072_1300703830504085",
             "fan_native": "1300700627171072_1300704220504046",
