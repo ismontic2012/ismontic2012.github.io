@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "admob",
+            "network" : "yandex",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -18,10 +18,10 @@
             "admob_int": "ca-app-pub-1108939190579661/7045956741",
             "admob_rewarded": "ca-app-pub-1108939190579661/4228221711",
 
-            "yandex_ban" : "R-M-DEMO-320x50",
-            "yandex_native" : "R-M-DEMO-native-i",
-            "yandex_int" : "R-M-DEMO-interstitial",
-            "yandex_rewarded" : "R-M-DEMO-rewarded-client-side-rtb",
+            "yandex_ban" : "R-M-2193310-1",
+            "yandex_native" : "R-M-2193310-2",
+            "yandex_int" : "R-M-2193310-3",
+            "yandex_rewarded" : "R-M-2193310-4",
 
             "max_ban": "99d4f671d759a027",
             "max_native": "87fe4f265186625d",
