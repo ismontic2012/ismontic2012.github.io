@@ -208,7 +208,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
