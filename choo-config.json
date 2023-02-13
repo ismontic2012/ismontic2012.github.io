@@ -157,10 +157,18 @@
         {
             "active" : "true",
             "active_reward" : "false",
+            "name" : "Product Ad",
+            "ico" : "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/food-delivery-service-ad-design-template-98de61f7ebfdd9e5d669a80f04a47be0_screen.jpg?ts=1625632993",
+            "bg" : "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
+        },
+        {
+            "active" : "true",
+            "active_reward" : "false",
             "name" : "Guide",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
-        },{
+        },
+        {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Spinner",
