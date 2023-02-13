@@ -195,25 +195,29 @@
             "name" : "Questions",
             "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
             "bg" : "#ffffff"
-        },{
-            "active" : "true",
-            "active_reward" : "true",
-            "name" : "Scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
-            "bg" : "#ffffff"
-        },{
+        },
+        {
             "active" : "true",
             "active_reward" : "false",
             "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
-        },{
+        },
+        {
+            "active" : "true",
+            "active_reward" : "true",
+            "name" : "Scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
+        },
+        {
             "active" : "false",
             "active_reward" : "false",
             "name" : "Games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#673AB7"
-        },{
+        },
+        {
             "active" : "false",
             "active_reward" : "false",
             "name" : "More",
