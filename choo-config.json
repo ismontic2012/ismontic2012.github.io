@@ -170,14 +170,14 @@
         },
         {
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "Spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#ffffff"
         },
         {
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "Quiz",
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
             "bg" : "#ffffff"
@@ -205,7 +205,7 @@
         },
         {
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "Scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#ffffff"
