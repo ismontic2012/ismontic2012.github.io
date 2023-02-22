@@ -155,18 +155,11 @@
 
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Guide",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
-        },
-        {
-            "active" : "true",
-            "active_reward" : "false",
-            "name" : "Food Delivery",
-            "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
-            "bg" : "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
         },
         {
             "active" : "true",
@@ -177,6 +170,13 @@
         },
         {
             "active" : "true",
+            "active_reward" : "false",
+            "name" : "Food Delivery",
+            "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
+            "bg" : "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
+        },
+        {
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Quiz",
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
@@ -197,7 +197,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
@@ -250,44 +250,64 @@
     
     "games" : [
         {
-            "name" : "EMMA LIP SURGERY",
-            "ico" : "https://img.gamedistribution.com/b1109846759040dcaf5f907604f4d871-512x384.jpeg",
-            "link" : "https://html5.gamedistribution.com/b1109846759040dcaf5f907604f4d871/?gdpr-tracking=0&gdpr-targeting=0&gdpr-third-party=0&gd_sdk_referrer_url=https://gamedistribution.com/games/emma-lip-surgery",
-            "cat" : "Overall",
-            "orientation" : "0"
-        },{
             "name" : "Funny Eye Surgery",
             "ico" : "https://images.crazygames.com/funny-eye-surgery-cover",
-            "link" : "https://ismontic2012.github.io/embed/funny-eye-surgery-cover.html",
+            "link" : "ddddddd",
             "cat" : "Simulation",
             "orientation" : "0"
-        },{
+        },
+        {
             "name" : "Funny Ear Surgery",
-            "ico" : "https://avatars.mds.yandex.net/get-games/1881371/2a00000183cf69f34c4c6814c8616637afef/pjpg526x314",
-            "link" : "https://yandex.com/games/app/197280",
-            "cat" : "Soccer",
+            "ico" : "https://images.crazygames.com/funny-ear-surgery",
+            "link" : "ddddddd",
+            "cat" : "Simulation",
             "orientation" : "0"
-        },{
-            "name" : "dddddddddd",
-            "ico" : "ddddd",
+        },
+        {
+            "name" : "Funny Nose Surgery",
+            "ico" : "https://images.crazygames.com/funny-nose-surgery-cover",
+            "link" : "ddddddd",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Funny Dentist Surgery",
+            "ico" : "https://images.crazygames.com/funny-dentist-surgery",
             "link" : "ddddddd",
             "cat" : "Arcade",
             "orientation" : "1"
-        },{
-            "name" : "dddddddddd",
-            "ico" : "ddddd",
+        },
+        {
+            "name" : "Funny Throat Surgery",
+            "ico" : "https://images.crazygames.com/funny-throat-surgery",
             "link" : "ddddddd",
             "cat" : "Puzzles",
             "orientation" : "0"
-        },{
-            "name" : "dddddddddd",
-            "ico" : "ddddd",
+        },
+        {
+            "name" : "Funny Bone Surgery",
+            "ico" : "https://images.crazygames.com/funny-bone-surgery/20200724083408/funny-bone-surgery-cover",
             "link" : "ddddddd",
             "cat" : "Hypercasual",
             "orientation" : "1"
-        },{
-            "name" : "dddddddddd",
-            "ico" : "ddddd",
+        },
+        {
+            "name" : "Doc Darling: Bone Surgery",
+            "ico" : "https://images.crazygames.com/doc-darling-bone-surgery/20221110142603/doc-darling-bone-surgery-cover",
+            "link" : "ddddddd",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Emergency Surgery",
+            "ico" : "https://images.crazygames.com/emergency-surgery/20221031133327/emergency-surgery-cover",
+            "link" : "ddddddd",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Feet's Doctor Urgent Care",
+            "ico" : "https://images.crazygames.com/games/feet-s-doctor-urgent-care/thumb-1597938246266.png",
             "link" : "ddddddd",
             "cat" : "Arcade",
             "orientation" : "0"
