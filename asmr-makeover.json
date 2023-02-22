@@ -252,64 +252,106 @@
         {
             "name" : "Funny Eye Surgery",
             "ico" : "https://images.crazygames.com/funny-eye-surgery-cover",
-            "link" : "ddddddd",
+            "link" : "https://html5.gamedistribution.com/1bbe6eea43ca4bafb300e8bffd6e6d21/?gd_sdk_referrer_url=https://gamedistribution.com/games/funny-eye-surgery",
             "cat" : "Simulation",
             "orientation" : "0"
         },
         {
             "name" : "Funny Ear Surgery",
             "ico" : "https://images.crazygames.com/funny-ear-surgery",
-            "link" : "ddddddd",
+            "link" : "https://html5.gamedistribution.com/a278458df38d490a8c07a4028d2749cb/?gd_sdk_referrer_url=https://gamedistribution.com/games/funny-ear-surgery",
             "cat" : "Simulation",
             "orientation" : "0"
         },
         {
             "name" : "Funny Nose Surgery",
             "ico" : "https://images.crazygames.com/funny-nose-surgery-cover",
-            "link" : "ddddddd",
+            "link" : "https://html5.gamedistribution.com/a185069d961b4ec5acdab70c1848ceee/?gd_sdk_referrer_url=https://gamedistribution.com/games/funny-nose-surgery",
             "cat" : "Simulation",
             "orientation" : "0"
         },
         {
             "name" : "Funny Dentist Surgery",
             "ico" : "https://images.crazygames.com/funny-dentist-surgery",
-            "link" : "ddddddd",
-            "cat" : "Arcade",
-            "orientation" : "1"
+            "link" : "https://html5.gamedistribution.com/c7f6e3042da640ff8ddd0777a0b76a19/?gd_sdk_referrer_url=https://gamedistribution.com/games/funny-dentist-surgery",
+            "cat" : "Simulation",
+            "orientation" : "0"
         },
         {
             "name" : "Funny Throat Surgery",
             "ico" : "https://images.crazygames.com/funny-throat-surgery",
-            "link" : "ddddddd",
-            "cat" : "Puzzles",
+            "link" : "https://html5.gamedistribution.com/fa8f52710a93435b8a5a31826ddeb897/?gd_sdk_referrer_url=https://gamedistribution.com/games/funny-throat-surgery",
+            "cat" : "Simulation",
             "orientation" : "0"
         },
         {
             "name" : "Funny Bone Surgery",
             "ico" : "https://images.crazygames.com/funny-bone-surgery/20200724083408/funny-bone-surgery-cover",
-            "link" : "ddddddd",
-            "cat" : "Hypercasual",
-            "orientation" : "1"
+            "link" : "https://html5.gamedistribution.com/e69f6fab2d764128b323599386e4651e/?gd_sdk_referrer_url=https://gamedistribution.com/games/funny-bone-surgery",
+            "cat" : "Simulation",
+            "orientation" : "0"
         },
         {
             "name" : "Doc Darling: Bone Surgery",
             "ico" : "https://images.crazygames.com/doc-darling-bone-surgery/20221110142603/doc-darling-bone-surgery-cover",
-            "link" : "ddddddd",
-            "cat" : "Arcade",
-            "orientation" : "0"
-        },
-        {
-            "name" : "Emergency Surgery",
-            "ico" : "https://images.crazygames.com/emergency-surgery/20221031133327/emergency-surgery-cover",
-            "link" : "ddddddd",
-            "cat" : "Arcade",
+            "link" : "https://html5.gamedistribution.com/06909078532d4b14b2b070ba529bd8aa/?gd_sdk_referrer_url=https://gamedistribution.com/games/doc-darling-bone-surgery",
+            "cat" : "Simulation",
             "orientation" : "0"
         },
         {
             "name" : "Feet's Doctor Urgent Care",
             "ico" : "https://images.crazygames.com/games/feet-s-doctor-urgent-care/thumb-1597938246266.png",
-            "link" : "ddddddd",
-            "cat" : "Arcade",
+            "link" : "https://html5.gamedistribution.com/34625ff83a6d4e5097de84541a70d4da/?gd_sdk_referrer_url=https://gamedistribution.com/games/feet-skin-doctor",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Goldie Princess Skin Doctor",
+            "ico" : "https://img.gamedistribution.com/d297b261230242a78fcdef238e2efb5f.jpg",
+            "link" : "https://html5.gamedistribution.com/d297b261230242a78fcdef238e2efb5f/?gd_sdk_referrer_url=https://gamedistribution.com/games/goldie-princess-skin-doctor",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Clara Cosmetic Surgery",
+            "ico" : "https://img.gamedistribution.com/9ef59b96898247f99a5202c48359bf5d-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/9ef59b96898247f99a5202c48359bf5d/?gd_sdk_referrer_url=https://gamedistribution.com/games/clara-cosmetic-surgery",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Nail Doctor",
+            "ico" : "https://img.gamedistribution.com/80d1021fafef4b8bb95c571a9925eb29-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/80d1021fafef4b8bb95c571a9925eb29/?gd_sdk_referrer_url=https://gamedistribution.com/games/nail-doctor",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Emma Lip Surgery",
+            "ico" : "https://img.gamedistribution.com/b1109846759040dcaf5f907604f4d871-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/b1109846759040dcaf5f907604f4d871/?gd_sdk_referrer_url=https://gamedistribution.com/games/emma-lip-surgery",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Foot Hospital",
+            "ico" : "https://img.gamedistribution.com/449925a5b02146e2a55f9b1c6efc1851-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/449925a5b02146e2a55f9b1c6efc1851/?gd_sdk_referrer_url=https://gamedistribution.com/games/foot-hospital",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Anna Bike Accident Love",
+            "ico" : "https://img.gamedistribution.com/29dbcc68600c4ae983273c9913599e22-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/29dbcc68600c4ae983273c9913599e22/?gd_sdk_referrer_url=https://gamedistribution.com/games/anna-bike-accident-love",
+            "cat" : "Simulation",
+            "orientation" : "0"
+        },
+        {
+            "name" : "Hand Skin Doctor",
+            "ico" : "https://img.gamedistribution.com/0f15be1fc14e44ec86cdf2cb5db7f763-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/0f15be1fc14e44ec86cdf2cb5db7f763/?gd_sdk_referrer_url=https://gamedistribution.com/games/hand-skin-doctor",
+            "cat" : "Simulation",
             "orientation" : "0"
         }
 
