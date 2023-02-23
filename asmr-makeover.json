@@ -169,7 +169,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Food Delivery",
             "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
