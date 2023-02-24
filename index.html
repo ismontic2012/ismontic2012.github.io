@@ -29,22 +29,29 @@
         line-height: 1.8;
         font-family: 'Lato', Georgia, "Times New Roman", serif;
     }
-    .con{
+    .apps{
         display: block;
         margin: 0px;
         padding: 5px 20px;
     }
     .blur{
-      background: url('https://play-lh.googleusercontent.com/1wKrHdq6r9nrAcyn0RUHmHK3ImrBkqDdgs83ghUWwC-cpKhPcc1cQeyEsZ9WGN4fGjS9=w7680-h4320-rw');background-position: center;background-size: contain;height: 60%;width: 100%;position: absolute;display: block;filter: blur(8px);-webkit-filter: blur(8px);
+      background: url('https://play-lh.googleusercontent.com/1wKrHdq6r9nrAcyn0RUHmHK3ImrBkqDdgs83ghUWwC-cpKhPcc1cQeyEsZ9WGN4fGjS9=w7680-h4320-rw');background-position: center;background-size: contain;height: 50%;width: 100%;position: absolute;display: block;filter: blur(8px);-webkit-filter: blur(8px);
+    }
+    .store-ico{
+      width: 120px;border-radius: 100px;margin: 17% 0px 5px 0px;border: 3px solid #ffffff30;
+      transition: all .2s ease-in-out;
     }
     @media screen and (max-width: 640px){
-        .con{
+        .apps{
             display: block;
             margin: 0px;
             padding: 10px;
         }
         .blur{
-            height: 30%;
+            height: 25%;
+        }
+        .store-ico:hover {
+            transform: scale(1.1);
         }
     }
   </style>
@@ -53,11 +60,17 @@
 <body>
   <div class="blur"></div>
   <div style="position: absolute;display: block;width: 100%;text-align: center;">
-    <img src="https://play-lh.googleusercontent.com/Sb8EfsBKIwrJr6eOmvtHhlsvq2JEMCAmenhhYfLeKTLFjH6_hsJwRfRF2YKDJPtK-Fo=s188-rw" style="width: 120px;border-radius: 100px;margin: 20% 0px 5px 0px;">
-    <h1 style="/* padding:10px; */text-align: center;margin: 5px;color:#fff;">
+    <img class="store-ico" src="https://play-lh.googleusercontent.com/Sb8EfsBKIwrJr6eOmvtHhlsvq2JEMCAmenhhYfLeKTLFjH6_hsJwRfRF2YKDJPtK-Fo=s188-rw">
+    <h1 style="text-align: center;margin: 5px;color:#fff;">
       Hippopotamus Studio
     </h1>
-    <div class="con">
+    <div class="apps">
+      <div class="app-1">
+        <img src="https://play-lh.googleusercontent.com/fs4sk07I8yogfHjG1VqXcKlhKmOsLYk2bwSO-R_5oEDbayJ62yWkHRGpPslefj5YMQ=s512-rw">
+        <h1 style="text-align: center;margin: 5px;color:#fff;">
+          ASMR Face Makeover
+        </h1>
+      </div>
     </div>
   </div>
 
