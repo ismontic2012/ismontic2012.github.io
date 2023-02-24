@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="style.css">
   <title>Hippopotamus Studio</title>
   <style>
-    @import url(https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
     body {
         background: #000000;
         color: #777777;
@@ -27,12 +27,12 @@
         position: relative;
         font-weight: normal;
         line-height: 1.8;
-        font-family: 'Lato', Georgia, "Times New Roman", serif;
+        font-family: 'Noto Serif', serif;
     }
     .apps{
-        display: block;
-        margin: 0px;
-        padding: 5px 20px;
+        grid-template-columns: calc(100%/5) calc(100%/5) calc(100%/5) calc(100%/5) calc(100%/5);
+        padding: 10px 50px;
+        display: grid;
     }
     .blur{
       background: url('https://play-lh.googleusercontent.com/1wKrHdq6r9nrAcyn0RUHmHK3ImrBkqDdgs83ghUWwC-cpKhPcc1cQeyEsZ9WGN4fGjS9=w7680-h4320-rw');background-position: center;background-size: contain;height: 50%;width: 100%;position: absolute;display: block;filter: blur(8px);-webkit-filter: blur(8px);
