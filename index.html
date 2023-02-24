@@ -39,7 +39,7 @@
       background: url('https://play-lh.googleusercontent.com/1wKrHdq6r9nrAcyn0RUHmHK3ImrBkqDdgs83ghUWwC-cpKhPcc1cQeyEsZ9WGN4fGjS9=w7680-h4320-rw');background-position: center;background-size: contain;height: 50%;width: 100%;position: absolute;display: block;filter: blur(8px);-webkit-filter: blur(8px);
     }
     .store-ico{
-      width: 120px;border-radius: 100px;margin: 17% 0px 5px 0px;border: 3px solid #ffffff30;
+      width: 120px;border-radius: 100px;margin: 13% 0px 5px 0px;border: 3px solid #ffffff30;
       transition: all .2s ease-in-out;
     }
     .app{
@@ -51,9 +51,10 @@
     }
     @media screen and (max-width: 640px){
         .apps{
-            display: block;
-            margin: 0px;
-            padding: 10px;
+            grid-template-columns: calc(100%/2) calc(100%/2);
+            padding: 10px 10px;
+            margin-top:30px;
+            display: grid;
         }
         .blur{
             height: 25%;
