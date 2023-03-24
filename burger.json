@@ -44,6 +44,8 @@
             "ad_game_minutes" : 1,
             "ad_int_interval" : 4,
             "score_rating_reward" : 3,
+            
+            "activities": "https://imag.malavida.com/mvimgbig/download-fs/hamburguesa-por-favor-36841-10.jpg,https://imag.malavida.com/mvimgbig/download-fs/hamburguesa-por-favor-36841-7.jpg,https://imag.malavida.com/mvimgbig/download-fs/hamburguesa-por-favor-36841-5.jpg",
 
             "orientation": "landscape",
 
