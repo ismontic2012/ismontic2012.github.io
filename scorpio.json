@@ -7,7 +7,7 @@
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
-            "network" : "admob",
+            "network" : "fan",
 
             "unity_game_id" : "",
             "unity_int" : "",
