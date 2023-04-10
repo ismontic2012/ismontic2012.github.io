@@ -54,21 +54,14 @@
         }
     ],
     
-    "friends" : [
+    "friends" : [,
         {
-            "name" : "ASMR Face Makeover Art Fashion",
-            "ico" : "https://play-lh.googleusercontent.com/fs4sk07I8yogfHjG1VqXcKlhKmOsLYk2bwSO-R_5oEDbayJ62yWkHRGpPslefj5YMQ",
-            "link" : "https://play.google.com/store/apps/details?id=ks.apps.asmr",
-            "cat" : "Simulation",
-            "video" : "https://lh3.googleusercontent.com/ZI22mRBS41VI8CMu_zHMJuzGywL8uAmEwp-QOSxJB9rbQ2SsGCZeLoH3CSJ6zgVnfg"
-        },
-        {
-            "name" : "Scorpio News: Movie & TV",
-            "ico" : "https://play-lh.googleusercontent.com/UEVTVE1ykUBOTLh7SBFsdaSCqRpWXXuT_iCDpcOFLyh3psh5WUhkpm6zai7tBTyJ4vU",
-            "link" : "https://play.google.com/store/apps/details?id=ks.apps.scorpio",
-            "cat" : "Simulation",
+            "name" : "Instale e abra o Shopee",
+            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
+            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647",
+            "cat" : "Shopping App",
             "video" : "https://lh3.googleusercontent.com/H_IsU451jC1NSS1TWq6ma9Lhhh73nhiLqoRcAA8gt6E0Hfj452INXfzGdxYON9GJzq4"
         }
-
+       
     ]
 }
