@@ -5,7 +5,7 @@
             
             "int_interval" : 2,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "961c659f-a56b-43a1-babc-5fe111159bb0",
             "network" : "admob",
 
@@ -45,12 +45,12 @@
     
     "custom" : [
         {
-            "name" : "Pikashow Movies and TV Shows",
-            "title" : "TV Shows",
+            "name" : "Instale e abra o Shopee",
+            "title" : "Shopping App",
             "description" : "Download: Pikashow Movies  for Movies and TV Shows",
-            "ico2" : "https://parnamg.info/uploads/2022/07/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-pikashow-apk-download-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF.webp",
-            "ico" : "https://play-lh.googleusercontent.com/A58YUmZvDyAGNUxu7yRFqQhyib2Ee2g__kFlSmqhwp1I5MeV4p-2PLziLlCC8TF2qgM=w300",
-            "link" : "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
+            "ico2" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310",
+            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
+            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647"
         }
     ],
     
