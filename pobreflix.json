@@ -7,7 +7,7 @@
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "961c659f-a56b-43a1-babc-5fe111159bb0",
-            "network" : "fan",
+            "network" : "max",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -27,9 +27,9 @@
             "iron_ban" : "",
             "iron_int" : "",
 
-            "max_ban" : "",
-            "max_native" : "",
-            "max_int" : "",
+            "max_ban" : "0c6ebb72412c8548",
+            "max_native" : "50bcc70e5c1d1159",
+            "max_int" : "06b76ae96ad911ad",
             "max_reward" : "",
 
             "fan_ban": "216030951031492_216032691031318",
