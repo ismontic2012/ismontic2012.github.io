@@ -4,7 +4,7 @@
             "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
             
             "int_interval" : 2,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "961c659f-a56b-43a1-babc-5fe111159bb0",
             "network" : "admob",
@@ -37,9 +37,9 @@
             "fan_int": "216030951031492_216032741031313",
             "fan_rewarded": "216030951031492_216033077697946",
             
-            "activate_update_app": "false",
-            "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
-            "update_ico": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg=s512-rw"
+            "activate_update_app": "true",
+            "update_link": "https://play.google.com/store/apps/details?id=ks.apps.scorpio",
+            "update_ico": "https://lh3.googleusercontent.com/ZvUTSIZ5zhZr6VzPBAYJSMbyt0TZHY7suQ1fWVOkLZKzsuBVSbiahk9hHAMpN6gINto"
         }
     ],
     
